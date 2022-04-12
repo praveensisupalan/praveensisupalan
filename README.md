@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @praveen
-- 👀 I’m interested in ...#programming#science#movies
+- 👀 I’m interested in ...#programming#science
 - 🌱 I’m currently learning ...programming
 - 💞️ I’m looking to collaborate on ... Codeing web development
 - 📫 How to reach me ... praveensisupalan34@gmail.com
